@@ -33,5 +33,7 @@ If the application is being initiated through a command line interface, then the
 java -cp bin minesweeper.TestMinesweeper
 
 The following assumptions apply:
+
 * All class files are in the bin folder, and
+
 * Package is called minesweeper
