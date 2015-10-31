@@ -1,17 +1,21 @@
-Name:-         		Minesweeper
-ReadMe Author:- 	Amreen Fatima S Surani
-Product Authors:-      	Amreen Fatima S Surani
-Date:-         		March 3, 2015
+# Minesweeper #
 
-(1) INTRODUCTION
+### Author ###
+Amreen Fatima S Surani
+
+### Date ###
+March 3, 2015
+
+
+1. INTRODUCTION
 -----------------
 A single player game that requires the user to clear a rectangular board containing hidden mines, without detonating them.
 
-(2) External Libraries:
+2. External Libraries:
 -----------------------
 None
 
-(3) USAGE
+3. USAGE
 ---------
 
 The application can be initiated using a command line interface or through an IDE.
@@ -29,9 +33,5 @@ If the application is being initiated through a command line interface, then the
 java -cp bin minesweeper.TestMinesweeper
 
 The following assumptions apply:
-- All class files are in the bin folder, and
-- Package is called minesweeper
-
------------------
-End of README.txt
------------------
+* All class files are in the bin folder, and
+* Package is called minesweeper
